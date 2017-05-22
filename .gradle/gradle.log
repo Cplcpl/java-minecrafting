@@ -1,0 +1,17 @@
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file 'C:\Users\651907\Desktop\GitHub\java-minecrafting\build.gradle' line: 18
+
+* What went wrong:
+A problem occurred evaluating root project 'java-minecrafting'.
+> No signature of method: org.gradle.api.JavaVersion.call() is applicable for argument types: (org.gradle.api.JavaVersion) values: [1.8]
+Possible solutions: wait(), name(), any(), wait(long), any(groovy.lang.Closure), each(groovy.lang.Closure)
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 2 mins 55.84 secs
